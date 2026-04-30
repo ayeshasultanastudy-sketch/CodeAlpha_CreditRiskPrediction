@@ -120,14 +120,18 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app here for better presentation)*
+### 🏠 Home Page
+![Home Page](screenshot1.png)
+
+### 📊 Prediction Result
+![Prediction](screenshot2.png)
 
 ---
 
 ## 🔗 Links
 
-* GitHub Repository: *(Add your repo link)*
-* Live App: *(Add Streamlit link if deployed)*
+* GitHub Repository: https://github.com/ayeshasultanastudy-sketch/CodeAlpha_CreditRiskPrediction
+* Live App: https://codealphacreditriskprediction-rksdrhkx6d8ceb6q9nnat9.streamlit.app/
 
 ---
 
@@ -139,7 +143,7 @@ This project was completed as part of the **CodeAlpha Machine Learning Internshi
 
 ## 📌 Author
 
-**Your Name**
+Ayesha Sultana
 
 ---
 
